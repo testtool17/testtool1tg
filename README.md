@@ -1,3 +1,3 @@
 ```
-cd testtol1tg&&python main.py
+cd testtool1tg&&python main.py
 ```
